@@ -1,4 +1,4 @@
-# クックパッドレシピデータセット
+# Cookpad Recipe in Docker-MySQL
 クックパッド社が提供するデータベースをDocker環境で構築するリポジトリです．
 実行には以下のURLにある国立情報学研究所との契約の上，Cookpadデータセットの取得が必要です．[対象URL](https://www.nii.ac.jp/dsc/idr/cookpad/)
 
