@@ -30,20 +30,18 @@ pip install -r requirements.txt
 
 実行結果以下のようになれば正常に構築できています．
 
-+--------------------------------+-----------+
-|             Table              | Row Count |
-+--------------------------------+-----------+
-|       base_kondate_likes       |  536649   |
-|      base_kondate_recipes      |  144223   |
-|         base_kondates          |   35928   |
-|          ingredients           | 12725006  |
-|       kondate_categories       |    16     |
-| kondate_category_user_kondates |   79876   |
-|            recipes             |  1715595  |
-|       search_categories        |   1099    |
-|    search_category_recipes     |  164912   |
-|             steps              |     0     |
-+--------------------------------+-----------+
+| Table                          | Row Count |
+|--------------------------------|-----------|
+| base_kondate_likes             | 536649    |
+| base_kondate_recipes           | 144223    |
+| base_kondates                  | 35928     |
+| ingredients                    | 12725006  |
+| kondate_categories             | 16        |
+| kondate_category_user_kondates | 79876     |
+| recipes                        | 1715595   |
+| search_categories              | 1099      |
+| search_category_recipes        | 164912    |
+| steps                          | 0         |
 
 (stepsの数が0なのは原因不明です．．．解凍時のshasum値は正しかったです)
 
